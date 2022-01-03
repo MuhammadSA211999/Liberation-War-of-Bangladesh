@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 30px;
+}
+.dde{
+     color: green;
+}
+h3{
+    color: indigo;
+}.eert{
+    color: maroon;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.wwet{
+    display: flex;
+}
+.half-wiedth{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-wiedth img{
+    width: 140%;
+}
+.eert{
+    text-align: justify;
+}
+.ddty{
+    text-decoration: no;
+    background-color: maroon;
+    color: black;
+    border: 1px burlywood;
+    padding: 2px;
+    border-radius: 5px;
+}
