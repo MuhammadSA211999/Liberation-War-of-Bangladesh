@@ -15,6 +15,9 @@ h3{
 }
 .wwet{
     display: flex;
+    background-image: url(gtre/gun\).jpeg);
+    background-repeat: no-repeat;
+    
 }
 .half-wiedth{
     width: 50%;
@@ -25,10 +28,15 @@ h3{
 }
 .eert{
     text-align: justify;
+    margin: 5%;
+    border-radius: 5%;
+    padding: 10%;
+    background-color: forestgreen;
+    color: fuchsia;
 }
 .ddty{
     text-decoration: no;
-    background-color: maroon;
+    background-image:-o-linear-gradient(yellow, green);
     color: black;
     border: 1px burlywood;
     padding: 2px;
