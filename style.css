@@ -48,13 +48,14 @@ h3{
     background-repeat: no-repeat;
 }
 .llr{
-    width: 50%;
+    width: right;
     text-align: justify;
+    display: flex;
 }
 .aaz{
-    width: 50%;
+    width:100%;
     text-align: center;
-    margin-left: 20%;
+    margin-left: 5%;
 }
 .ddo{
     border: hotpink;
@@ -71,10 +72,19 @@ h3{
 .vvc{
     text-align: center;
     text-align: justify;
-    padding: 10%;
 }
-.ffds{
-    background-color: chartreuse;
-    color: black;
-    
+.kkb{
+    color: chartreuse;
+    width: 50%;
+}
+.xxe{
+    display: flex;
+    width: 100%;
+    margin-left:42px ;
+}
+.mm{
+    box-shadow: darkorange 5px 5px 5px 5px;
+    text-align: center;
+    border-right: 10px solid;
+    margin-left: 42px;
 }
